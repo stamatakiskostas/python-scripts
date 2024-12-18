@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kostas</h1>
 <h3 align="center">used to play Bingo.</h3>
 
-<h3 align="left">This is a small repo with some basic everyday scripts:</h3>
+<h3 align="left">This is a small repo with some basic everyday scripts mostly intented for below stuff:</h3>
 <p align="left">
 </p>
 
