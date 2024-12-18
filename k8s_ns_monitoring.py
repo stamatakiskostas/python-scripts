@@ -26,7 +26,7 @@ commands = [
     }
 ]
 
-# Dictionary to track the last execution time of each command
+# tracking execution time of each command
 last_executed = {cmd["cmd"][0]: 0 for cmd in commands}
 
 
